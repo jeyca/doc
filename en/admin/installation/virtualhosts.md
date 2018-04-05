@@ -2,7 +2,7 @@
 
 ## Configuration on Apache
 
-Do not forget to active the *rewrite* mod of Apache
+Do not forget to activate the *rewrite* mod of Apache
 
 ```bash
 a2enmod rewrite && systemctl reload apache2
